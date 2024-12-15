@@ -1,3 +1,3 @@
 # AI-Checkers
 --------------------------------------
-I'm forced to write this code because of a certain some shitty teacher
+I'm forced to make this project because of a certain some shitty teacher
