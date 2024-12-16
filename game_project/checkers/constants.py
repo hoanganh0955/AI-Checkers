@@ -15,4 +15,4 @@ BLUE = (0, 0, 255)
 GRAY = (128, 128, 128)
 
 #crown png when promoted to king
-CROWN = pygame.transform.scale(pygame.image.load('game_project/assets/kings-crown-logo-vector-PNG.png'), (50, 50))
+CROWN = pygame.transform.scale(pygame.image.load('assets/kings-crown-logo-vector-PNG.png'), (50, 50))
